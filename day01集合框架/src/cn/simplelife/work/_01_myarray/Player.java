@@ -1,4 +1,4 @@
-package cn.simplelife.work.myarray;
+package cn.simplelife.work._01_myarray;
 
 /**
  * 可变数组，可以对数组进行增删改查

@@ -1,4 +1,4 @@
-package cn.simplelife.work.myarray;
+package cn.simplelife.work._01_myarray;
 
 public class PlayerTest {
     public static void main(String[] args) {

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day01集合框架/day01集合框架.iml" filepath="$PROJECT_DIR$/day01集合框架/day01集合框架.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02集合框架/day02集合框架.iml" filepath="$PROJECT_DIR$/day02集合框架/day02集合框架.iml" />
     </modules>
   </component>
 </project>
