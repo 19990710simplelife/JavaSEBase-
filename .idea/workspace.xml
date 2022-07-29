@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dfcc357-9293-478f-bfeb-71dee421c75f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2dfcc357-9293-478f-bfeb-71dee421c75f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +55,7 @@
       <recent name="cn.simplelife.work" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListDemo">
+  <component name="RunManager" selected="Application.StackLinkedList">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._02_datastructure._01arraylist.ArrayListDemo" />
       <module name="day01集合框架" />
@@ -110,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01_myarray.PlayerTest" />
+    <configuration name="StackLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._02_datastructure._02linkedlist.StackLinkedList" />
       <module name="day01集合框架" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._01_myarray.*" />
+          <option name="PATTERN" value="cn.simplelife.work._02_datastructure._02linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackLinkedList" />
         <item itemvalue="Application.LinkedListDemo" />
         <item itemvalue="Application.ArrayListDemo2" />
         <item itemvalue="Application.ArrayListDemo1" />
         <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.PlayerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +143,7 @@
       <updated>1658808931298</updated>
       <workItem from="1658808934424" duration="7083000" />
       <workItem from="1658884226631" duration="594000" />
-      <workItem from="1659056351543" duration="5042000" />
+      <workItem from="1659056351543" duration="5584000" />
     </task>
     <servers />
   </component>
@@ -172,22 +170,22 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1360" y="105" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658811492975" />
-    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1659062723047">
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1659063105664">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659062723047" />
-    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1659062723047">
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659063105664" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1659063105664">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659062723047" />
-    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1659062723047">
+    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659063105664" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1659063105664">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659062723047" />
-    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1659062723047">
+    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659063105664" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1659063105664">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659062723047" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659063105664" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1658812568752">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
