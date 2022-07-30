@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfcc357-9293-478f-bfeb-71dee421c75f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day02集合框架/src/cn/simplelife/work/_01_gener/GenerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02集合框架/src/cn/simplelife/work/_01_gener/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02集合框架/src/cn/simplelife/work/_01_gener/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02集合框架/src/cn/simplelife/work/_01_gener/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day01集合框架/cn/simplelife/work/_02_datastructure/_02linkedlist/QueueLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day01集合框架/cn/simplelife/work/_02_datastructure/_02linkedlist/QueueLinkedList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +15,9 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="241" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaSE基础进阶" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,7 +57,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -59,27 +65,17 @@
       <recent name="cn.simplelife.work._02_datastructure._01arraylist" />
       <recent name="cn.simplelife.work" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.simplelife.work._01_gener" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.StudentTest">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._02_arraylistdemo.ArrayListDemo" />
-      <module name="day01集合框架" />
+  <component name="RunManager" selected="Application.PointTest (1)">
+    <configuration name="GenerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01_gener.GenerDemo" />
+      <module name="day02集合框架" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.homework._02_arraylistdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._02_arraylistdemo.ArrayListDemo01" />
-      <module name="day01集合框架" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.simplelife.homework._02_arraylistdemo.*" />
+          <option name="PATTERN" value="cn.simplelife.work._01_gener.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.simplelife.homework._03_linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01_gener.PointTest" />
+      <module name="day02集合框架" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.simplelife.work._01_gener.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PointTest (1)" />
+        <item itemvalue="Application.GenerDemo" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.PointTest" />
         <item itemvalue="Application.LinkedListDemo" />
-        <item itemvalue="Application.ArrayListDemo01" />
-        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +157,8 @@
       <updated>1658808931298</updated>
       <workItem from="1658808934424" duration="7083000" />
       <workItem from="1658884226631" duration="594000" />
-      <workItem from="1659056351543" duration="16546000" />
+      <workItem from="1659056351543" duration="18644000" />
+      <workItem from="1659142567348" duration="2797000" />
     </task>
     <servers />
   </component>
@@ -167,10 +177,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1859" y="357" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658808936470" />
-    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1659081473240">
+    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1659144391689">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659081473240" />
+    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659144391689" />
     <state x="-1241" y="365" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1659080806326">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -179,42 +189,42 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1360" y="105" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658811492975" />
-    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1659083021133">
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom" timestamp="1659145105023">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659083021133" />
-    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1659083021132">
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659145105023" />
+    <state width="1877" height="316" key="GridCell.Tab.0.center" timestamp="1659145105023">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659083021132" />
-    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1659083021132">
+    <state width="1877" height="316" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659145105023" />
+    <state width="1877" height="316" key="GridCell.Tab.0.left" timestamp="1659145105023">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659083021132" />
-    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1659083021132">
+    <state width="1877" height="316" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659145105023" />
+    <state width="1877" height="316" key="GridCell.Tab.0.right" timestamp="1659145105023">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659083021132" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1659082917916">
+    <state width="1877" height="316" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659145105023" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1659099186742">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659082917916" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1659082917916">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659099186742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1659099186742">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659082917916" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1659082917916">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659099186742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1659099186742">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659082917916" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1659082917916">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659099186742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1659099186742">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659082917916" />
-    <state x="-1764" y="76" width="996" height="716" key="SettingsEditor" timestamp="1658812424641">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659099186742" />
+    <state x="-1764" y="76" width="996" height="716" key="SettingsEditor" timestamp="1659145346549">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1764" y="76" width="996" height="716" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658812424641" />
+    <state x="-1764" y="76" width="996" height="716" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659145346549" />
     <state x="-1168" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658811471652">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -223,10 +233,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1586" y="244" key="new project wizard/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658836158077" />
-    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1659080938963">
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1659145342918">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659080938963" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659145342918" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaSE$PlayerTest.ic" NAME="PlayerTest Coverage Results" MODIFIED="1658811325012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
