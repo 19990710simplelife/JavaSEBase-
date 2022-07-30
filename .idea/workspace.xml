@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfcc357-9293-478f-bfeb-71dee421c75f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day02集合框架/src/cn/simplelife/work/_04_set/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02集合框架/src/cn/simplelife/work/_04_set/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02集合框架/src/cn/simplelife/work/_05_treeset/TreeSetDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day02集合框架/cn/simplelife/work/_04_set/SetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day02集合框架/cn/simplelife/work/_04_set/SetDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day02集合框架/cn/simplelife/work/_04_set/UserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day02集合框架/cn/simplelife/work/_04_set/UserTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,20 +77,7 @@
       <recent name="cn.simplelife.work._01_gener" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UserTest">
-    <configuration name="GenderArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._02_generarraylist.GenderArrayListTest" />
-      <module name="day02集合框架" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._02_generarraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TreeSetDemo">
     <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._03_iterator.IteratorDemo" />
       <module name="day02集合框架" />
@@ -131,6 +117,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._05_treeset.TreeSetDemo" />
+      <module name="day02集合框架" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.simplelife.work._05_treeset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._04_set.UserTest" />
       <module name="day02集合框架" />
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetDemo" />
         <item itemvalue="Application.UserTest" />
         <item itemvalue="Application.SetDemo" />
         <item itemvalue="Application.IteratorDemo1" />
         <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.GenderArrayListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +169,7 @@
       <workItem from="1658808934424" duration="7083000" />
       <workItem from="1658884226631" duration="594000" />
       <workItem from="1659056351543" duration="18644000" />
-      <workItem from="1659142567348" duration="10985000" />
+      <workItem from="1659142567348" duration="11794000" />
     </task>
     <servers />
   </component>
@@ -201,22 +200,22 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1360" y="105" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658811492975" />
-    <state width="1877" height="260" key="GridCell.Tab.0.bottom" timestamp="1659164882694">
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom" timestamp="1659166049430">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659164882694" />
-    <state width="1877" height="260" key="GridCell.Tab.0.center" timestamp="1659164882694">
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659166049430" />
+    <state width="1877" height="260" key="GridCell.Tab.0.center" timestamp="1659166049430">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659164882694" />
-    <state width="1877" height="260" key="GridCell.Tab.0.left" timestamp="1659164882694">
+    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659166049430" />
+    <state width="1877" height="260" key="GridCell.Tab.0.left" timestamp="1659166049430">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659164882694" />
-    <state width="1877" height="260" key="GridCell.Tab.0.right" timestamp="1659164882694">
+    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659166049430" />
+    <state width="1877" height="260" key="GridCell.Tab.0.right" timestamp="1659166049430">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659164882694" />
+    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659166049430" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1659099186742">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
