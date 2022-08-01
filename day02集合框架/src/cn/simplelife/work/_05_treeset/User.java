@@ -65,6 +65,13 @@ public class User implements Comparable<User> {
 //        } else {
 //            return 0;
 //        }
-        return Integer.compare(this.getAge(), o.getAge());
+        /**
+         * 多策略比较
+         */
+        if (this.getAge() == o.getAge()) {
+            return this.getName().compareTo(o.getName());
+        } else {
+            return Integer.compare(this.getAge(), o.getAge());
+        }
     }
 }
