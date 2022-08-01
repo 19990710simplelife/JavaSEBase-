@@ -1,4 +1,4 @@
-package cn.simplelife.work;
+package cn.simplelife.work.treeSet;
 
 /**
  * @ClassName User

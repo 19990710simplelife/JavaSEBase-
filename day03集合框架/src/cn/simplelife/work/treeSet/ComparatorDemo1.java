@@ -1,4 +1,4 @@
-package cn.simplelife.work;
+package cn.simplelife.work.treeSet;
 
 import java.util.Comparator;
 import java.util.TreeSet;
