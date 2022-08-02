@@ -1,6 +1,5 @@
-package cn.simplelife.work.trycatchfinally;
+package cn.simplelife.work._03_trycatchfinally;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
