@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfcc357-9293-478f-bfeb-71dee421c75f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_01_trycatch/TryCatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_02_trycatchcatch/TryCatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_03_trycatchfinally/TryCatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_04_throw/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_04_throw/ThrowDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_05_demo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_05_demo/HighAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_05_demo/HighSalaryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_05_demo/LowAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_05_demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_06_clock/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_06_clock/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_06_clock/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_06_clock/Ticket1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_01_threadextends/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_01_threadextends/ThreadExtends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_02_implementsthread/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_02_implementsthread/ThreadImplements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_03_ticketthreadextends/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_03_ticketthreadextends/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_04_ticketthreadimplements/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/homework/_04_ticketthreadimplements/Ticket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/work/_07_throw/ThrowExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04异常处理/src/cn/simplelife/work/_07_throw/ThrowExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04异常处理/cn/simplelife/work/_07_throw/ThrowExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04异常处理/cn/simplelife/work/_07_throw/ThrowExceptionDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,11 +91,11 @@
       <recent name="cn.simplelife.work._01_gener" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.simplelife.homework._04_ticketthreadimplements" />
       <recent name="cn.simplelife.homework._05_demo" />
       <recent name="cn.simplelife.homework._03_trycatchfinally" />
       <recent name="cn.simplelife.homework._02_trycatchcatch" />
       <recent name="cn.simplelife.work._06_clock" />
-      <recent name="cn.simplelife.homework._02_map" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\javaSE\JavaSE基础进阶\day04异常处理\src\cn\simplelife\homework" />
@@ -111,7 +103,59 @@
       <recent name="F:\javaSE\JavaSE基础进阶\day02集合框架\src\cn\simplelife\work" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (4)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._01_threadextends.Test" />
+      <module name="day05多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.simplelife.homework._01_threadextends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._02_implementsthread.Test" />
+      <module name="day05多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.simplelife.homework._02_implementsthread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._03_ticketthreadextends.Test" />
+      <module name="day05多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.simplelife.homework._03_ticketthreadextends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._04_ticketthreadimplements.Test" />
+      <module name="day05多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.simplelife.homework._04_ticketthreadimplements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._05_demo.Test" />
       <module name="day04异常处理" />
@@ -125,65 +169,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._04_throw.ThrowDemo" />
-      <module name="day04异常处理" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.simplelife.homework._04_throw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThrowExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._07_throw.ThrowExceptionDemo" />
-      <module name="day04异常处理" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._07_throw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryCatchDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._02_trycatchcatch.TryCatchDemo" />
-      <module name="day04异常处理" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.simplelife.homework._02_trycatchcatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryCatchDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.homework._03_trycatchfinally.TryCatchDemo" />
-      <module name="day04异常处理" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.simplelife.homework._03_trycatchfinally.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ThrowDemo" />
-        <item itemvalue="Application.ThrowExceptionDemo" />
-        <item itemvalue="Application.TryCatchDemo (2)" />
-        <item itemvalue="Application.TryCatchDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +198,7 @@
       <workItem from="1659142567348" duration="22704000" />
       <workItem from="1659319106124" duration="12976000" />
       <workItem from="1659342464658" duration="6885000" />
-      <workItem from="1659427848168" duration="20695000" />
+      <workItem from="1659427848168" duration="22037000" />
     </task>
     <servers />
   </component>
@@ -229,10 +221,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659342937326" />
-    <state x="-1155" y="236" width="494" height="653" key="#com.intellij.ide.util.MemberChooser" timestamp="1659531043751">
+    <state x="-1155" y="236" width="494" height="653" key="#com.intellij.ide.util.MemberChooser" timestamp="1659532479322">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1155" y="236" width="494" height="653" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659531043751" />
+    <state x="-1155" y="236" width="494" height="653" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532479322" />
     <state x="-1333" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1659429869618">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -245,22 +237,22 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1360" y="105" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659321576872" />
-    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1659532083869">
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom" timestamp="1659533339890">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532083869" />
-    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1659532083869">
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659533339890" />
+    <state width="1877" height="313" key="GridCell.Tab.0.center" timestamp="1659533339889">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532083869" />
-    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1659532083869">
+    <state width="1877" height="313" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659533339889" />
+    <state width="1877" height="313" key="GridCell.Tab.0.left" timestamp="1659533339889">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532083869" />
-    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1659532083869">
+    <state width="1877" height="313" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659533339889" />
+    <state width="1877" height="313" key="GridCell.Tab.0.right" timestamp="1659533339890">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532083869" />
+    <state width="1877" height="313" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659533339890" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1659514990951">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -285,32 +277,18 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1168" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658811471652" />
-    <state x="-1094" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1659434948258">
+    <state x="-1094" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1659532122729">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1094" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659434948258" />
+    <state x="-1094" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532122729" />
     <state x="-1586" y="244" key="new project wizard" timestamp="1659496009093">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1586" y="244" key="new project wizard/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659496009093" />
-    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1659338331718">
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1659532925752">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659338331718" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/day04异常处理/src/cn/simplelife/homework/_05_demo/Test.java</url>
-          <line>11</line>
-          <properties class="cn.simplelife.homework._05_demo.Test" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532925752" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaSE$PlayerTest.ic" NAME="PlayerTest Coverage Results" MODIFIED="1658811325012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
