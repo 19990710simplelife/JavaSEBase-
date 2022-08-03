@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfcc357-9293-478f-bfeb-71dee421c75f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_01_thread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_01_thread/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_01_thread/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_02_thread/TicketDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_02_thread/TicketThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_03_myrun/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_03_myrun/TicketDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_04_join/JoinThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_04_join/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_05_sleep/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05多线程/src/cn/simplelife/work/_05_sleep/TicketThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +98,13 @@
       <recent name="F:\javaSE\JavaSE基础进阶\day02集合框架\src\cn\simplelife\work" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._08_customexception.CustomException" />
-      <module name="day04异常处理" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._05_sleep.Test" />
+      <module name="day05多线程" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._08_customexception.*" />
+          <option name="PATTERN" value="cn.simplelife.work._05_sleep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01_thread.ThreadDemo" />
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._04_join.TestDemo" />
       <module name="day05多线程" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._01_thread.*" />
+          <option name="PATTERN" value="cn.simplelife.work._04_join.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._07_throw.ThrowExceptionDemo" />
-      <module name="day04异常处理" />
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01_thread.ThreadDemo" />
+      <module name="day05多线程" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._07_throw.*" />
+          <option name="PATTERN" value="cn.simplelife.work._01_thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.TestDemo" />
         <item itemvalue="Application.TicketDemo" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ThreadDemo" />
-        <item itemvalue="Application.CustomException" />
-        <item itemvalue="Application.ThrowExceptionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +193,7 @@
       <workItem from="1659142567348" duration="22704000" />
       <workItem from="1659319106124" duration="12976000" />
       <workItem from="1659342464658" duration="6885000" />
-      <workItem from="1659427848168" duration="14820000" />
+      <workItem from="1659427848168" duration="17585000" />
     </task>
     <servers />
   </component>
@@ -220,10 +216,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659342937326" />
-    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1659514368399">
+    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1659528608937">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514368399" />
+    <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659528608937" />
     <state x="-1333" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1659429869618">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -236,38 +232,38 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1360" y="105" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659321576872" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1659514904754">
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom" timestamp="1659528916079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514904754" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1659514904754">
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659528916079" />
+    <state width="1877" height="307" key="GridCell.Tab.0.center" timestamp="1659528916079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514904754" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1659514904754">
+    <state width="1877" height="307" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659528916079" />
+    <state width="1877" height="307" key="GridCell.Tab.0.left" timestamp="1659528916079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514904754" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1659514904754">
+    <state width="1877" height="307" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659528916079" />
+    <state width="1877" height="307" key="GridCell.Tab.0.right" timestamp="1659528916079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514904754" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1659514905109">
+    <state width="1877" height="307" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659528916079" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1659514990951">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514905109" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1659514905109">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514990951" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1659514990951">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514905109" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1659514905108">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514990951" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1659514990951">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514905108" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1659514905109">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514990950" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1659514990951">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514905109" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659514990951" />
     <state x="-1764" y="76" width="996" height="716" key="SettingsEditor" timestamp="1659342449453">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
