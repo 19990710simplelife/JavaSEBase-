@@ -9,19 +9,18 @@ package cn.simplelife.work._07_throw;
  */
 
 public class ThrowExceptionDemo {
-    public static boolean exisUser(String username) throws Exception {
+    public static void erisUser(String username) throws Exception {
         String[] arr = {"张三", "李四", "王五"};
         for (String s : arr) {
             if (username.equals(s)) {
                 throw new Exception("用户名已注册！");
             }
         }
-        return false;
     }
 
     public static void main(String[] args) {
         try {
-            exisUser("张三");
+            erisUser("张三");
         } catch (Exception e) {
             e.printStackTrace();
         }
