@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/day02集合框架/day02集合框架.iml" filepath="$PROJECT_DIR$/day02集合框架/day02集合框架.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03集合框架/day03集合框架.iml" filepath="$PROJECT_DIR$/day03集合框架/day03集合框架.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04异常处理/day04异常处理.iml" filepath="$PROJECT_DIR$/day04异常处理/day04异常处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04异常处理_拓展/day04异常处理_拓展.iml" filepath="$PROJECT_DIR$/day04异常处理_拓展/day04异常处理_拓展.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05多线程/day05多线程.iml" filepath="$PROJECT_DIR$/day05多线程/day05多线程.iml" />
     </modules>
   </component>
