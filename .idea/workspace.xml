@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfcc357-9293-478f-bfeb-71dee421c75f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_01file/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_01file/FileDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_01file/FileDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_01file/FileDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_01file/FileDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06IO流/test/test02/test01/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06IO流/test/test02/test01/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_02encode/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_02encode/EcondeDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06IO流/src/cn/simplelife/work/_02encode/EncodeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06IO流_加强/day06IO流_加强.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05多线程/cn/simplelife/homework/_09_demo03/ExpressThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05多线程/cn/simplelife/homework/_09_demo03/ExpressThread.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +105,13 @@
       <recent name="cn.simplelife.work._01_gener" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileDemo5">
-    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01file.FileDemo" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._02encode.Demo" />
       <module name="day06IO流" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._01file.*" />
+          <option name="PATTERN" value="cn.simplelife.work._02encode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01file.FileDemo2" />
+    <configuration name="EcondeDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._02encode.EcondeDemo1" />
       <module name="day06IO流" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._01file.*" />
+          <option name="PATTERN" value="cn.simplelife.work._02encode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._01file.FileDemo3" />
+    <configuration name="EncodeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.simplelife.work._02encode.EncodeDemo" />
       <module name="day06IO流" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.simplelife.work._01file.*" />
+          <option name="PATTERN" value="cn.simplelife.work._02encode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.EcondeDemo1" />
+        <item itemvalue="Application.EncodeDemo" />
         <item itemvalue="Application.FileDemo5" />
         <item itemvalue="Application.FileDemo4" />
-        <item itemvalue="Application.FileDemo3" />
-        <item itemvalue="Application.FileDemo2" />
-        <item itemvalue="Application.FileDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +205,8 @@
       <workItem from="1659668728866" duration="1848000" />
       <workItem from="1661308865758" duration="2980000" />
       <workItem from="1661826472429" duration="481000" />
-      <workItem from="1661933650403" duration="3554000" />
+      <workItem from="1661933650403" duration="4798000" />
+      <workItem from="1662339538411" duration="3308000" />
     </task>
     <servers />
   </component>
@@ -255,42 +251,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="363" y="169" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1661826891980" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1661937330454">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="323" key="GridCell.Tab.0.bottom" timestamp="1662343383646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330454" />
+    <state width="1877" height="323" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1662343383646" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105616" />
     <state width="1493" height="327" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1661311177477" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1661937330453">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="323" key="GridCell.Tab.0.center" timestamp="1662343383646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330453" />
+    <state width="1877" height="323" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1662343383646" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105616" />
     <state width="1493" height="327" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1661311177476" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1661937330453">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="323" key="GridCell.Tab.0.left" timestamp="1662343383646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330453" />
+    <state width="1877" height="323" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1662343383646" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105616" />
     <state width="1493" height="327" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1661311177476" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1661937330454">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="323" key="GridCell.Tab.0.right" timestamp="1662343383646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330454" />
+    <state width="1877" height="323" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1662343383646" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105616" />
     <state width="1493" height="327" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1661311177476" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1661937330454">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1661941105617">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330454" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1661937330454">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105617" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1661941105617">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330454" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1661937330454">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105617" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1661941105617">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330454" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1661937330454">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105617" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1661941105617">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661937330454" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661941105617" />
     <state x="125" y="60" width="914" height="707" key="SettingsEditor" timestamp="1661826793835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -304,11 +304,12 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1094" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1659532122729" />
-    <state x="-1296" y="92" key="new project wizard" timestamp="1661933697029">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="2544" y="92" key="new project wizard" timestamp="1662339943738">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1296" y="92" key="new project wizard/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1661933697029" />
     <state x="267" y="45" key="new project wizard/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1661826969713" />
+    <state x="2544" y="92" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1662339943738" />
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1661935309640">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
