@@ -1,0 +1,40 @@
+private static void copy2() {
+//1):创建源或者目标对象
+File src = new File("file/copy_before.txt");
+File dest = new File("file/copy_after.txt");
+//把需要关闭的资源，声明在try之外
+FileReader in = null;
+FileWriter out = null;
+try {
+//可能出现异常的代码
+//2):创建IO流对象
+in = new FileReader(src);
+out = new FileWriter(dest);
+//3):具体的IO操作
+int len = -1;//记录以及读取了多个字符
+char[] buff = new char[1024];//每次可以读取1024个字符
+len = in.read(buff);//先读取一次
+while (len > 0) {
+out.write(buff, 0, len);
+len = in.read(buff);//再继续读取
+}
+} catch (Exception e) {
+e.printStackTrace();
+} finally {
+//4):关闭资源(勿忘)
+try {
+if (out != null) {
+out.close();
+}
+} catch (Exception e) {
+e.printStackTrace();
+}
+try {
+if (in != null) {
+in.close();
+}
+} catch (Exception e) {
+e.printStackTrace();
+}
+}
+}
