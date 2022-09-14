@@ -3,7 +3,9 @@ package cn.simplelife.homework._09getstudent;
 import cn.simplelife.work._09serializable.User;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * @ClassName GetStudent
@@ -25,7 +27,20 @@ public class GetStudent {
                 stringBuilder.append(chars, 0, len);
             }
             String[] split = stringBuilder.toString().split(";");
-
+            List<Student> list = new ArrayList<>();
+            for (String s : split) {
+                String[] split1 = s.split("-");
+                Student student = new Student();
+                student.setName(split1[0]);
+                student.setAge(Integer.valueOf(split1[1]));
+                student.setScore(Double.valueOf(split1[2]));
+                list.add(student);
+            }
+            double sum = 0;
+            for (Student student : list) {
+                sum += student.getScore();
+            }
+            System.out.println(sum / list.size());
         } catch (IOException e) {
             e.printStackTrace();
         }
